@@ -20,3 +20,6 @@ This limitation can be addressed using Vector Databases:
 After scraping with Bright Data, the data can be stored locally or in the cloud.
 
 When a user submits a query, only the most relevant chunks are retrieved and processed by the LLM, ensuring efficiency and accuracy.
+
+# Resource
+https://github.com/techwithtim/Advanced-Langflow-Web-Agent
